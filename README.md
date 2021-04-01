@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Dependecies
+npm install @tensorflow/tfjs @tensorflow-models/facemesh react-webcam
 ## Available Scripts
 
 In the project directory, you can run:
